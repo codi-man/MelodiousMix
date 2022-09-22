@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+body {
+    background-image: linear-gradient(to right, rgba(0,0,0,0.999) , rgba(17, 101, 237,0.999));
+    font-family: 'Kanit', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-family: 'Kanit', sans-serif;
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    height: 65px;
+    background-color: #000;
+    color: #fff;
+    align-items: center;
+}
+.brand img {
+    width: 47px;
+    padding: 0 8px;
+}
+.brand {
+    align-items: center;
+    display: flex;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+nav ul li {
+    padding: 0 12px;
+}
+.container {
+    min-height: 70vh;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    border-radius: 10px;
+    padding: 15px;
+    background-image: url('musicimg.jpg');
+    image-rendering: auto;
+    box-shadow: 5px 10px 18px #000;
+}
+
+.bottom {
+    height: 130px;
+    background-color: #000;
+    color: #fff;
+    position: sticky;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.icons {
+    margin-top: 20px;
+    cursor: pointer;
+}
+#myprogressBar {
+    text-align: center;
+    width: 80vh;
+    cursor: pointer;
+}
+.songItem {
+    height: 50px;
+    display: flex;
+    box-shadow: 2px 5px 10px #fff;
+    color: #fff;
+    margin: 12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 4px 4px 4px 0;
+    overflow: hidden;
+}
+
+.songItemContainer {
+    margin-top: 60px;
+}
+
+.songItem img {
+    width: 103px;
+    margin: 23px 0;
+    border-radius: 10px 0 0 10px;
+}
+.timestamp {
+    margin: 23px 0;
+}
+.timestamp i {
+    cursor: pointer;
+}
+.songinfo {
+    position: absolute;
+    left: 21vw;
+    font-family: 'Kanit', sans-serif;
+}
+@media screen and (max-width: 1000px) {
+    .songinfo, #songinfo {
+        position: initial;
+    }
+    body {
+        background-image: linear-gradient(#000, rgba(64, 67, 71, 0.5));
+    }
+    .songName {
+        padding: 25px;
+    }
+    #myprogressBar {
+        width: 90%;
+    }
+    .songItemContainer {
+        margin-top: 0;
+    }
+    .songItem img {
+        left: 0;
+    }
+    .container {
+        margin: 1px;
+        border-radius: 0px;   
+    }
+    .songItem {
+        height: 70px;
+    }
+}
+
+.songinfo img {
+    opacity: 0;
+    transition: 0.6s ease-in;
+}
+#gif {
+    margin-top: 10px;
+}
+.songName {
+    padding: 0 8px 0 8px;
+}
