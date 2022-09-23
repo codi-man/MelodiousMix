@@ -13,6 +13,12 @@ let songs = [
     {songName: "Happier Than Ever", filePath: "audio4.mp3", coverPath: "audio4.jpg"},
     {songName: "I Love You", filePath: "audio5.mp3", coverPath: "audio5.jpg"},
     {songName: "No Time to Die", filePath: "audio6.mp3", coverPath: "audio6.jpg"},
+    {songName: "The Witchs Daughter Ashley Serena", filePath: "audio7.mp3", coverPath: "audio7.jpg"},
+    {songName: "Payphone - Maroon 5 Feat Wiz Kalifa", filePath: "audio8.mp3", coverPath: "audio8.jpg"},
+    {songName: "Easy On Me Remake - Adele", filePath: "audio9.mp3", coverPath: "audio9.jpg"},
+    {songName: "Plany Dance", filePath: "audio10.mp3", coverPath: "audio10.jpg"},
+    {songName: "WindowsXP Error", filePath: "audio11.mp3", coverPath: "audio11.jpg"},
+    {songName: "Ed Sheeran - Bad Habits (Slap House Version)", filePath: "audio12.mp3", coverPath: "audio12.jpg"},
 ]
 
 songItems.forEach((element, i)=> {
@@ -50,7 +56,7 @@ const makeAllPlays = () => {
     Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=> {
         element.classList.remove('fa-pause-circle');
         element.classList.add('fa-play-circle');
-        audioElement.currentTime = 0;
+        
     })
 }
 
@@ -61,7 +67,6 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=> 
         e.target.classList.add('fa-pause-circle');
         audioElement.src = `audio${songIndex}.mp3`;
         masterSongName.innerText = songs[songIndex-1].songName;
-        audioElement.currentTime = 0;
         audioElement.play();
         masterPlay.classList.remove('fa-play-circle');
         masterPlay.classList.add('fa-pause-circle');
@@ -70,7 +75,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=> 
 })
 
 document.getElementById('next').addEventListener('click', () => {
-    if(songIndex>=6) {
+    if(songIndex>=12) {
         songIndex=1;
     }
     else {
@@ -85,7 +90,7 @@ document.getElementById('next').addEventListener('click', () => {
 })
 document.getElementById('previous').addEventListener('click', () => {
     if(songIndex<=1) {
-        songIndex=6;
+        songIndex=12;
     }
     else {
         songIndex -=1;
