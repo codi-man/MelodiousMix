@@ -18,7 +18,13 @@ let songs = [
     {songName: "Easy On Me Remake - Adele", filePath: "audio9.mp3", coverPath: "audio9.jpg"},
     {songName: "Plany Dance", filePath: "audio10.mp3", coverPath: "audio10.jpg"},
     {songName: "WindowsXP Error", filePath: "audio11.mp3", coverPath: "audio11.jpg"},
-    {songName: "Ed Sheeran - Bad Habits (Slap House Version)", filePath: "audio12.mp3", coverPath: "audio12.jpg"},
+    {songName: "Ed Sheeran - Bad Habits", filePath: "audio12.mp3", coverPath: "audio12.jpg"},
+    {songName: "jiggle jiggle x To the next Episode", filePath: "audio13.mp3", coverPath: "audio13.jpg"},
+    {songName: "Wisthly Babe - ArmaniaJ", filePath: "audio14.mp3", coverPath: "audio14.jpg"},
+    {songName: "No One Like You Song - Sam Smyers ft ArmaniaJ", filePath: "audio15.mp3", coverPath: "audio15.jpg"},
+    {songName: "High On Groove - ArmaniaJ", filePath: "audio16.mp3", coverPath: "audio16.jpg"},
+    {songName: "I'm in Love - ArmaniaJ", filePath: "audio17.mp3", coverPath: "audio17.jpg"},
+    {songName: "Mamla Dil Da Hai - Tonny Kakkar", filePath: "audio18.mp3", coverPath: "audio18.jpg"},
 ]
 
 songItems.forEach((element, i)=> {
@@ -75,7 +81,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=> 
 })
 
 document.getElementById('next').addEventListener('click', () => {
-    if(songIndex>=12) {
+    if(songIndex>=18) {
         songIndex=1;
     }
     else {
@@ -90,7 +96,7 @@ document.getElementById('next').addEventListener('click', () => {
 })
 document.getElementById('previous').addEventListener('click', () => {
     if(songIndex<=1) {
-        songIndex=12;
+        songIndex=18;
     }
     else {
         songIndex -=1;
