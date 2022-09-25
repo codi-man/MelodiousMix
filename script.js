@@ -26,6 +26,7 @@ let songs = [
     {songName: "I'm in Love - ArmaniaJ", filePath: "audio17.mp3", coverPath: "audio17.jpg"},
     {songName: "Mamla Dil Da Hai - Tonny Kakkar", filePath: "audio18.mp3", coverPath: "audio18.jpg"},
     {songName: "Saringum - ArmaniaJ", filePath: "audio19.mp3", coverPath: "audio19.jpg"},
+    {songName: "Pretty Bitches ArmaniaJ", filePath: "audio20.mp3", coverPath: "audio20.jpg"},
 ]
 
 songItems.forEach((element, i)=> {
@@ -82,7 +83,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=> 
 })
 
 document.getElementById('next').addEventListener('click', () => {
-    if(songIndex>=19) {
+    if(songIndex>=songs.length) {
         songIndex=1;
     }
     else {
@@ -97,7 +98,7 @@ document.getElementById('next').addEventListener('click', () => {
 })
 document.getElementById('previous').addEventListener('click', () => {
     if(songIndex<=1) {
-        songIndex=19;
+        songIndex=songs.length;
     }
     else {
         songIndex -=1;
