@@ -130,6 +130,9 @@ nav ul li {
     .songItem {
         height: 70px;
     }
+    .container {
+        width: auto;
+    }
 }
 
 .songinfo img {
@@ -141,4 +144,5 @@ nav ul li {
 }
 .songName {
     padding: 0 8px 0 8px;
+    overflow: hidden;
 }
