@@ -53,7 +53,7 @@ let musics = [
     album: "One&Only",
     coverImage: "cover/keepit100.jpg",
     audioSource:
-      "audios/Keepit100.wav"
+      "audios/Keepit100.mp3"
   },
   {
     trackName: "Keep it 100 Slowed&Reverbed",
