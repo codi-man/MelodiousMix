@@ -15,7 +15,7 @@ html {
 
 body {
   background-color: #131418;
-  font-family: "Pacifico";
+  font-family: 'Poppins', sans-serif;;
   width: 100vw;
   height: 100vh;
   display: grid;
