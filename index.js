@@ -145,7 +145,7 @@ let musics = [
       "audios/SayitAgainSongArmaniaJ.mp3"
   },
   {
-    trackName: "Sayit Again - ArmaniaJ",
+    trackName: "Say it - ArmaniaJ",
     artist: "ArmaniaJ",
     album: "One&Only",
     coverImage: "cover/SayItArmaniaJ.jpg",
