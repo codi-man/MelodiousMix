@@ -128,6 +128,30 @@ let musics = [
     audioSource:
       "audios/Nostalji.mp3"
   },
+  {
+    trackName: "Choose You - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/ChooseYouSongArmaniaJ.jpg",
+    audioSource:
+      "audios/ChooseYouSongArmaniaJ.mp3"
+  },
+  {
+    trackName: "Sayit Again - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/SayitAgainSongArmaniaJ.jpg",
+    audioSource:
+      "audios/SayitAgainSongArmaniaJ.mp3"
+  },
+  {
+    trackName: "Sayit Again - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/SayItArmaniaJ.jpg",
+    audioSource:
+      "audios/SayItArmaniaJ.mp3"
+  },
   
 ];
 
@@ -238,6 +262,7 @@ requestAnimationFrame(function currentTimeUpdater(
   let currentTime = audioTrack.currentTime;
 
   let currentMinute = Math.trunc(currentTime / 60);
+  console.log(currentMinute)
   let currentSeconds = Math.trunc(currentTime % 60);
 
   if (currentSeconds < 10) {
