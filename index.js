@@ -152,6 +152,14 @@ let musics = [
     audioSource:
       "audios/SayItArmaniaJ.mp3"
   },
+  {
+    trackName: "Mamla Dil Da Hai - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/mamladildahai.jpg",
+    audioSource:
+      "audios/mamladildahai.mp3"
+  },
   
 ];
 
