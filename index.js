@@ -160,6 +160,14 @@ let musics = [
     audioSource:
       "audios/mamladildahai.mp3"
   },
+  {
+    trackName: "Let You Down - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/LetYouDown.jpg",
+    audioSource:
+      "audios/LetYouDown.mp3"
+  },
   
 ];
 
