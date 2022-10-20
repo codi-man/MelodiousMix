@@ -168,6 +168,14 @@ let musics = [
     audioSource:
       "audios/LetYouDown.mp3"
   },
+  {
+    trackName: "Slow Down - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/slowdown.jpg",
+    audioSource:
+      "audios/slowdown.mp3"
+  },
   
 ];
 
