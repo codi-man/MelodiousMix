@@ -176,6 +176,46 @@ let musics = [
     audioSource:
       "audios/slowdown.mp3"
   },
+  {
+    trackName: "Friends - Sam Smyers ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/FriendsSongSamSymers.jpg",
+    audioSource:
+      "audios/FriendsSongSamSymers.mp3"
+  },
+  {
+    trackName: "Hidden Lover - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/HiddenLoverArmaniaJ.gif",
+    audioSource:
+      "audios/HiddenLoverArmaniaJ.mp3"
+  },
+  {
+    trackName: "Let Me Go - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/LetMeGoArmaniaJ.jpg",
+    audioSource:
+      "audios/LetMeGoArmaniaJ.mp3"
+  },
+  {
+    trackName: "Nobody Listening Song Sam Symers",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/NobodyListeningArmniaJ.jpg",
+    audioSource:
+      "audios/NobodyListeningArmniaJ.mp3"
+  },
+  {
+    trackName: "Want You - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/WantYouArmaniaJ.png",
+    audioSource:
+      "audios/WantYouArmaniaJ.mp3"
+  },
   
 ];
 
