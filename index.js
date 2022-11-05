@@ -225,6 +225,14 @@ let musics = [
       "audios/NoOneLikeYou.mp3"
   },
   {
+    trackName: "S&R No One Like You - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/NoOneLikeYou.jpeg",
+    audioSource:
+      "audios/SRNoOneLikeYou.mp3"
+  },
+  {
     trackName: "No Time To Die, BE ft AJ",
     artist: "ArmaniaJ",
     album: "One&Only",
