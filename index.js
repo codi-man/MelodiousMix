@@ -216,6 +216,22 @@ let musics = [
     audioSource:
       "audios/WantYouArmaniaJ.mp3"
   },
+  {
+    trackName: "No One Like You - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/NoOneLikeYou.jpeg",
+    audioSource:
+      "audios/NoOneLikeYou.mp3"
+  },
+  {
+    trackName: "No Time To Die, BE ft AJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/NoTimeToDie.jpg",
+    audioSource:
+      "audios/NoTimeToDie.mp3"
+  },
   
 ];
 
