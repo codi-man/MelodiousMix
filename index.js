@@ -256,6 +256,14 @@ let musics = [
     audioSource:
       "audios/TheDarkWoods.mp3"
   },
+  {
+    trackName: "Arabi - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/ArabiArmaniaJ.jpg",
+    audioSource:
+      "audios/ArabiArmaniaJ.mp3"
+  },
   
 ];
 
