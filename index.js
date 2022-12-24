@@ -240,6 +240,22 @@ let musics = [
     audioSource:
       "audios/NoTimeToDie.mp3"
   },
+  {
+    trackName: "Oliver Adams - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/OliverAdamsArmaniaJ.jpg",
+    audioSource:
+      "audios/OliverAdamsArmaniaJ.mp3"
+  },
+  {
+    trackName: "The Dark Woods - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/TheDarkWoods.jpg",
+    audioSource:
+      "audios/TheDarkWoods.mp3"
+  },
   
 ];
 
