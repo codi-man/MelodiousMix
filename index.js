@@ -1,8 +1,3 @@
-// github.com/webFardin
-// twitter.com/webFardin0
-// instagram.com/webFardin
-// t.me/webFardin
-
 "use strict";
 
 let audioTrack = document.createElement("audio");
@@ -263,6 +258,22 @@ let musics = [
     coverImage: "cover/ArabiArmaniaJ.jpg",
     audioSource:
       "audios/ArabiArmaniaJ.mp3"
+  },
+  {
+    trackName: "Pretty Bitches - AJ",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/PrettyBitchesAJ.jpg",
+    audioSource:
+      "audios/PrettyBitchesAJ.mp3"
+  },
+  {
+    trackName: "S&R Pretty Bitches",
+    artist: "ArmaniaJ",
+    album: "One&Only",
+    coverImage: "cover/PrettyBitchesAJ.jpg",
+    audioSource:
+      "audios/S&RPrettyBitches.mp3"
   },
   
 ];
