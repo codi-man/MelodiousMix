@@ -45,7 +45,7 @@ let musics = [
   {
     trackName: "Keep it 100 - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/keepit100.jpg",
     audioSource:
       "audios/Keepit100.mp3"
@@ -53,7 +53,7 @@ let musics = [
   {
     trackName: "Keep it 100 Slowed&Reverbed",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/keepit100.jpg",
     audioSource:
       "audios/Keepit100slowed.mp3"
@@ -61,7 +61,7 @@ let musics = [
   {
     trackName: "Idiot Virus",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/idiot.jpg",
     audioSource:
       "audios/IdiotVirus.mp3"
@@ -69,7 +69,7 @@ let musics = [
   {
     trackName: "High on Groove",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/highongroove.jpg",
     audioSource:
       "audios/HighonGroove.mp3"
@@ -78,7 +78,7 @@ let musics = [
   {
     trackName: "Saringum",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/saringum.jpg",
     audioSource:
       "audios/Saringum.mp3"
@@ -86,7 +86,7 @@ let musics = [
   {
     trackName: "Horry",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/horry.jpg",
     audioSource:
       "audios/Horry.mp3"
@@ -94,7 +94,7 @@ let musics = [
   {
     trackName: "Billie Eilish - Happier Than Ever",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/BillieEilishHappierThanEver.jpg",
     audioSource:
       "audios/BillieEilishHappierThanEver.mp3"
@@ -102,7 +102,7 @@ let musics = [
   {
     trackName: "Set Fire to the Rain - Adele",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/SetfiretotheRain.jpg",
     audioSource:
       "audios/SetfiretotheRain.mp3"
@@ -110,7 +110,7 @@ let musics = [
   {
     trackName: "I Love You - Billie Eilish",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/ILoveYou-BillieEilish.jpg",
     audioSource:
       "audios/BillieEilish-ILoveYou.mp3"
@@ -118,7 +118,7 @@ let musics = [
   {
     trackName: "Nostalji - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/Nostalji.jpg",
     audioSource:
       "audios/Nostalji.mp3"
@@ -126,7 +126,7 @@ let musics = [
   {
     trackName: "Choose You - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/ChooseYouSongArmaniaJ.jpg",
     audioSource:
       "audios/ChooseYouSongArmaniaJ.mp3"
@@ -134,7 +134,7 @@ let musics = [
   {
     trackName: "Sayit Again - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/SayitAgainSongArmaniaJ.jpg",
     audioSource:
       "audios/SayitAgainSongArmaniaJ.mp3"
@@ -142,7 +142,7 @@ let musics = [
   {
     trackName: "Say it - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/SayItArmaniaJ.jpg",
     audioSource:
       "audios/SayItArmaniaJ.mp3"
@@ -150,7 +150,7 @@ let musics = [
   {
     trackName: "Mamla Dil Da Hai - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/mamladildahai.jpg",
     audioSource:
       "audios/mamladildahai.mp3"
@@ -158,7 +158,7 @@ let musics = [
   {
     trackName: "Let You Down - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/LetYouDown.jpg",
     audioSource:
       "audios/LetYouDown.mp3"
@@ -166,7 +166,7 @@ let musics = [
   {
     trackName: "Slow Down - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/slowdown.jpg",
     audioSource:
       "audios/slowdown.mp3"
@@ -174,7 +174,7 @@ let musics = [
   {
     trackName: "Friends - Sam Smyers ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/FriendsSongSamSymers.jpg",
     audioSource:
       "audios/FriendsSongSamSymers.mp3"
@@ -182,7 +182,7 @@ let musics = [
   {
     trackName: "Hidden Lover - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/HiddenLoverArmaniaJ.gif",
     audioSource:
       "audios/HiddenLoverArmaniaJ.mp3"
@@ -190,7 +190,7 @@ let musics = [
   {
     trackName: "Let Me Go - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/LetMeGoArmaniaJ.jpg",
     audioSource:
       "audios/LetMeGoArmaniaJ.mp3"
@@ -198,7 +198,7 @@ let musics = [
   {
     trackName: "Nobody Listening Song Sam Symers",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/NobodyListeningArmniaJ.jpg",
     audioSource:
       "audios/NobodyListeningArmniaJ.mp3"
@@ -206,7 +206,7 @@ let musics = [
   {
     trackName: "Want You - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/WantYouArmaniaJ.png",
     audioSource:
       "audios/WantYouArmaniaJ.mp3"
@@ -214,7 +214,7 @@ let musics = [
   {
     trackName: "No One Like You - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/NoOneLikeYou.jpeg",
     audioSource:
       "audios/NoOneLikeYou.mp3"
@@ -222,7 +222,7 @@ let musics = [
   {
     trackName: "S&R No One Like You - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/NoOneLikeYou.jpeg",
     audioSource:
       "audios/SRNoOneLikeYou.mp3"
@@ -230,7 +230,7 @@ let musics = [
   {
     trackName: "No Time To Die, BE ft AJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/NoTimeToDie.jpg",
     audioSource:
       "audios/NoTimeToDie.mp3"
@@ -238,7 +238,7 @@ let musics = [
   {
     trackName: "Oliver Adams - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/OliverAdamsArmaniaJ.jpg",
     audioSource:
       "audios/OliverAdamsArmaniaJ.mp3"
@@ -246,7 +246,7 @@ let musics = [
   {
     trackName: "The Dark Woods - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/TheDarkWoods.jpg",
     audioSource:
       "audios/TheDarkWoods.mp3"
@@ -254,7 +254,7 @@ let musics = [
   {
     trackName: "Arabi - ArmaniaJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/ArabiArmaniaJ.jpg",
     audioSource:
       "audios/ArabiArmaniaJ.mp3"
@@ -262,7 +262,7 @@ let musics = [
   {
     trackName: "Pretty Bitches - AJ",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/PrettyBitchesAJ.jpg",
     audioSource:
       "audios/PrettyBitchesAJ.mp3"
@@ -270,11 +270,19 @@ let musics = [
   {
     trackName: "S&R Pretty Bitches",
     artist: "ArmaniaJ",
-    album: "One&Only",
+    album: "One&OnlyAJ",
     coverImage: "cover/PrettyBitchesAJ.jpg",
     audioSource:
       "audios/S&RPrettyBitches.mp3"
   },
+  {
+    trackName: "A Walk in the Rain",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/AWalkintheRainArmaniaJ.jpg",
+    audioSource:
+      "audios/AWalkintheRainArmaniaJ.mp3"
+  },  
   
 ];
 
