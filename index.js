@@ -282,8 +282,40 @@ let musics = [
     coverImage: "cover/AWalkintheRainArmaniaJ.jpg",
     audioSource:
       "audios/AWalkintheRainArmaniaJ.mp3"
-  },  
-  
+  },
+  {
+    trackName: "A Look into the Past AJ",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/ALooktothePastAJ.jpg",
+    audioSource:
+      "audios/ALooktothePastAJ.mp3"
+  },
+  {
+    trackName: "Little do you know - AJ",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/Littledoyouknow.jpg",
+    audioSource:
+      "audios/Littledoyouknow.mp3"
+  },
+  {
+    trackName: "S&R Little do you know - AJ",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/Littledoyouknow.jpg",
+    audioSource:
+      "audios/SRLittledoyouknow.mp3"
+  },
+  {
+    trackName: "Sahrayi - ArmaniaJ",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/sahrayi.jpg",
+    audioSource:
+      "audios/sahrayi.mp3"
+  },
+
 ];
 
 musics.forEach((item, index) => {
