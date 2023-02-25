@@ -315,6 +315,30 @@ let musics = [
     audioSource:
       "audios/sahrayi.mp3"
   },
+  {
+    trackName: "Billie Eilish OverHeated Armania",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/BillieEilishOverHeated-Armania.png",
+    audioSource:
+      "audios/BillieEilishOverHeated-Armania.mp3"
+  },
+  {
+    trackName: "Billie Eilish - Broken Hearts",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/BillieEilishBrokenHearts.jpg",
+    audioSource:
+      "audios/BillieEilishBrokenHearts.mp3"
+  },
+  {
+    trackName: "I Dont Know Where to go",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/Idontknowwheretogo.jpg",
+    audioSource:
+      "audios/Idontknowwheretogo.mp3"
+  },
 
 ];
 
