@@ -324,6 +324,14 @@ let musics = [
       "audios/BillieEilishOverHeated-Armania.mp3"
   },
   {
+    trackName: "S&R Billie Eilish OverHeated Armania",
+    artist: "ArmaniaJ",
+    album: "One&OnlyAJ",
+    coverImage: "cover/BillieEilishOverHeated-Armania.png",
+    audioSource:
+      "audios/SRBillieEilishOverHeated.mp3"
+  },
+  {
     trackName: "Billie Eilish - Broken Hearts",
     artist: "ArmaniaJ",
     album: "One&OnlyAJ",
